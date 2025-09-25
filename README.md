@@ -2,7 +2,7 @@
 A computer vision system for detecting dead trees using multi-spectral imagery (RGB + NIR). This project implements three distinct approaches:
 
 ## Approaches
-​​- **Traditional Image Segmentation**​​: Handcrafted features with threshold-based classification
+- **Traditional Image Segmentation**​​: Handcrafted features with threshold-based classification
 
 - **​​Machine Learning**​​: Ensemble model combining SVM and XGBoost, plus Random Forest
 
